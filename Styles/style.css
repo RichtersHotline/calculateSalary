@@ -1,0 +1,32 @@
+*,
+*::before,
+*::after {
+margin:0;
+padding: 0;
+box-sizing:border-box;
+
+}
+.container {
+
+display:flex;
+flex-flow:column wrap;
+align-items:center;
+font-family:arial;
+
+}
+
+label {
+
+font-weight:bold;
+
+}
+.Workin {
+
+    
+}
+.genderdiv {
+
+display:flex;
+flex-flow:row wrap;
+justify-content:space-evenly;
+}
